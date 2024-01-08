@@ -1,8 +1,8 @@
 import SideNav from "../ui/dashboard/sidenav";
 
-export const headers = {
+/*export const headers = {
   title: 'dashboard'
-}
+}*/
 
 const DashboardLayout =({children}: {children:React.ReactNode})=> {
 
